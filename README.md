@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=200&section=header&text=Hi!%20I'm%20BJY!%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Hi!%20I'm%20BJY!%20&fontSize=90)
 <!--
 **JYB0/JYB0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
