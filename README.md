@@ -1,3 +1,4 @@
+<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Hi!%20I'm%20BJY!%20&fontSize=90)
 <!--
 **JYB0/JYB0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +19,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYB0&layout=Demo&theme=gruvbox)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JYB0)](https://github.com/anuraghazra/github-readme-stats)
+</div>
