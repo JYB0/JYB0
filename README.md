@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-[![velog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://velog.io/@jyb0")
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://velog.io/@jyb0")
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYB0&show_icons=true&theme=gruvbox)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYB0&layout=compact&theme=gruvbox)
 
