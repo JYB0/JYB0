@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYB0&show_icons=true&theme=gruvbox)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYB0&layout=compact&theme=gruvbox)-->
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYB0&langs_count=10&layout=compact)]() 
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYB0&langs_count=10&layout=compact)]() -->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYB0&hide=html,php,css)-->
   
 
