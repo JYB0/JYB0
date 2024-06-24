@@ -1,5 +1,8 @@
 <h1 text align=center>Hi!😄</h1>
 <div align=center>
+
+
+
 <!--
 **JYB0/JYB0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-(Before) ReactNative Developer
-(Now) Flutter Developer
-</div>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYB0&show_icons=true&theme=gruvbox)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYB0&layout=compact&theme=gruvbox)-->
@@ -27,4 +26,5 @@ Here are some ideas to get you started:
   
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JYB0)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
