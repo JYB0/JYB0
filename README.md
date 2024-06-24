@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
 (Before) ReactNative Developer
 (Now) Flutter Developer
-  
+</p>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYB0&show_icons=true&theme=gruvbox)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYB0&layout=compact&theme=gruvbox)-->
