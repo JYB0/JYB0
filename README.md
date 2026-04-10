@@ -1,4 +1,5 @@
-<h1 text align=center>Hi!😄</h1>
+<h1 text align=center>안녕하세요!😄</h1>
+
 <div align=center>
 
 
@@ -25,6 +26,6 @@ Here are some ideas to get you started:
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYB0&hide=html,php,css)-->
   
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JYB0)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JYB0)](https://github.com/anuraghazra/github-readme-stats)-->
 
 </div>
